@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hugson-d
 - 👀 I’m interested in data science, machine learning, natural language processing and business intelligence 
 - 🌱 I’m currently learning python and try to master git :) 
-- 💞️ I’m looking to collaborate on various projects during my bachelor degree in business informatics with colleagues 
+- 💞️ I’m looking to collaborate on projects in the field of data science during my bachelor studies in business informatics 
 - 📫 How to reach me ...
 
 <!---
